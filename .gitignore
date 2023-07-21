@@ -1,4 +1,9 @@
-# ignore all the vscode files in the subfolders
-.vscode/**/*
-.idea/**/*
+# Ignore Visual Studio Code metadata
+.vscode/
+
+# Ignore macOS finder metadata
 .DS_Store
+
+# Ignore in all subfolders
+**/.vscode/
+**/.DS_Store
