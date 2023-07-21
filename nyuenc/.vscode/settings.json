@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "__mutex_base": "c",
+        "string": "c",
+        "vector": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "unordered_map": "c",
+        "chrono": "c"
+    }
+}
