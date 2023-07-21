@@ -1,3 +1,4 @@
-# ignore all the vscode files
-.vscode
-```
+# ignore all the vscode files in the subfolders
+.vscode/**/*
+.idea/**/*
+.DS_Store
